@@ -1,0 +1,9 @@
+{
+  "geprueftAm": "2026-10-01",
+  "projekt": "ibb_schulung",
+  "tests": 4,
+  "bestanden": 4,
+  "fehlgeschlagen": 0,
+  "ergebnis": "ERFOLGREICH",
+  "suiten": ["unit", "e2e"]
+}

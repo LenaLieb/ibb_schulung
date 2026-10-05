@@ -1,0 +1,10 @@
+import { spawnSync } from 'node:child_process';
+import { readdirSync } from 'node:fs';
+import { join, resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
+const root = resolve(fileURLToPath(new URL('..', import.meta.url)));
+const suite = process.argv.find((arg) => arg.startsWith('--suite='))?.split('=')[1];
+const suites = suite ? [suite] : ['unit', 'e2e'];
+const files = suites.flatMap((name) => { const dir = join(root, 'tests', name); return readdirSync(dir).filter((file) => file.endsWith('.test.mjs')).map((file) => join(dir, file)); });
+const result = spawnSync(process.execPath, ['--test', ...files], { cwd: root, stdio: 'inherit', env: { ...process.env, TZ: 'UTC' } });
+process.exit(result.status ?? 1);

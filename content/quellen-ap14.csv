@@ -1,0 +1,46 @@
+id,quelle_url,quellenstatus,recherchehinweis
+algarve,https://www.visitportugal.com/en,portal_blockiert,Portalseite durch Bot-Schutz nicht abrufbar; lokale offizielle Tourismusquelle noch eintragen
+barcelona,https://www.spain.info/en/destination/barcelona/,zielseite_abrufbar,Zielseite und Tourist Office Link gefunden; Faktenfelder separat belegen
+gardasee,https://www.italia.it/en/lombardy,regionaler_quellstart,Lombardei-Einstieg; Zielgebiet und Uferabgrenzung noch konkretisieren
+lissabon,https://www.visitportugal.com/en,portal_blockiert,Portalseite durch Bot-Schutz nicht abrufbar; lokale offizielle Tourismusquelle noch eintragen
+mallorca,https://www.spain.info/en/destinations/,offizieller_quellstart,Balearen-Seite und Zieldefinition noch separat verifizieren
+berlin,https://www.germany.travel/en/cities-culture/berlin.html,zielseite_abrufbar,Stadtseite; Primärquellen je Faktenfeld ergänzen
+hamburg,https://www.germany.travel/en/inspiring-germany/hamburg.html,zielseite_abrufbar,Stadtseite; Primärquellen je Faktenfeld ergänzen
+dresden,https://www.germany.travel/en/cities-culture/dresden.html,zielseite_abrufbar,Stadtseite verifiziert; ergänzend Sachsen Tourismus nutzen
+heidelberg,https://www.heidelberg-marketing.de/en,offizielle_lokale_tourismusquelle,Von Germany Travel als Heidelberg Tourism verlinkt; Datumsstand erfassen
+wien,https://www.austria.info/en-gb/cities-and-places/vienna-winter/,zielseite_abrufbar,Offizielle Wien-Zielseite mit Winterbezug; unabhängige Eignungswerte nicht daraus ableiten
+salzburg,https://www.austria.info/en-gb/cities-and-places/salzburg-winter/,zielseite_abrufbar,Offizielle Salzburg-Zielseite mit Winterbezug; unabhängige Eignungswerte nicht daraus ableiten
+innsbruck,https://www.austria.info/en-gb/cities-and-places/innsbruck-winter/,zielseite_abrufbar,Offizielle Innsbruck-Zielseite mit Winterbezug; unabhängige Eignungswerte nicht daraus ableiten
+kopenhagen,https://www.visitdenmark.com/denmark/destinations/copenhagen,zielseite_abrufbar,Offizielle VisitDenmark Zielseite
+aarhus,https://www.visitdenmark.com/denmark/destinations/jutland/aarhus,offizieller_zielseitenlink,Als Aarhus City Zielseite im offiziellen Aarhus Regionsportal verlinkt
+odense,https://www.visitdenmark.com/denmark/destinations/fyn/odense,zielseite_abrufbar,Offizielle VisitDenmark Zielseite; lokales VisitOdense ebenfalls verlinkt
+aalborg,https://www.visitdenmark.com/denmark/destinations/jutland/aalborg,zielseite_abrufbar,Offizielle VisitDenmark Zielseite
+oslo,https://www.visitnorway.com/places-to-go/eastern-norway/oslo/,zielseite_abrufbar,Offizielle Visit Norway Zielseite; Visitoslo als lokales Portal verlinkt
+bergen,https://www.visitnorway.com/places-to-go/fjord-norway/bergen/,zielseite_abrufbar,Offizielle Visit Norway Zielseite; Visit Bergen als lokales Portal verlinkt
+trondheim,https://www.visitnorway.com/places-to-go/trondelag/trondheim/,zielseite_abrufbar,Offizielle Visit Norway Zielseite; Visit Trondheim als lokales Portal verlinkt
+tromso,https://www.visitnorway.com/places-to-go/northern-norway/tromso/,zielseite_abrufbar,Offizielle Visit Norway Zielseite; Visit Tromso als lokales Portal verlinkt
+helsinki,https://www.visitfinland.com/en/places-to-go/helsinki-region/helsinki-city/,zielseite_abrufbar,Offizielle Visit Finland Zielseite; MyHelsinki als lokales Portal verlinkt
+tampere,https://www.visitfinland.com/en/places-to-go/lakeland/tampere/,zielseite_abrufbar,Offizielle Visit Finland Zielseite; Visit Tampere als lokales Portal verlinkt
+rovaniemi,https://www.visitfinland.com/en/places-to-go/lapland/rovaniemi/,zielseite_abrufbar,Offizielle Visit Finland Zielseite; Visit Rovaniemi als lokales Portal verlinkt
+turku,https://www.visitfinland.com/en/places-to-go/coast-and-archipelago/turku/,zielseite_abrufbar,Offizielle Visit Finland Zielseite; Visit Turku als lokales Portal verlinkt
+oulu,https://visitoulu.fi/en/,lokales_tourismusportal,Von Visit Finland als Oulu Zielseite verlinkt; Faktenfelder noch einzeln belegen
+madrid,https://www.spain.info/en/destination/madrid/,zielseite_abrufbar,Turespana Zielseite mit lokalen Tourist Office und Flughafenlinks
+sevilla,https://www.spain.info/en/destination/seville/,zielseite_abrufbar,Turespana Zielseite mit lokalen Tourismusseiten und Attraktionslinks
+valencia,https://www.spain.info/en/destination/valencia/,zielseite_abrufbar,Turespana Zielseite mit Visit Valencia Link
+granada,https://www.spain.info/en/destination/granada/,zielseite_abrufbar,Turespana Zielseite mit lokalem Granada Tourist Board Link
+rom,https://www.italia.it/en/lazio/rome,zielseite_abrufbar,Italia.it Zielseite; offizielle Römer Stadtquellen noch pro Feld ergänzen
+mailand,https://www.italia.it/en/lombardy/milan,zielseite_abrufbar,Italia.it Zielseite; Abruf lieferte zeitweise HTTP 429, per Seitenverweis bestätigt
+florenz,https://www.italia.it/en/tuscany/florence,zielseite_abrufbar,Italia.it Zielseite
+neapel,https://www.italia.it/en/campania/naples,zielseite_abrufbar,Italia.it Zielseite
+zuerich,https://www.myswitzerland.com/en/destinations/zurich/,zielseite_abrufbar,Switzerland Tourism Zielseite
+genf,https://www.myswitzerland.com/en/destinations/geneva/,zielseite_abrufbar,Switzerland Tourism Zielseite
+luzern,https://www.myswitzerland.com/en/destinations/lucerne/,zielseite_abrufbar,Switzerland Tourism Zielseite
+interlaken,https://www.myswitzerland.com/en/destinations/interlaken/,zielseite_abrufbar,Switzerland Tourism Zielseite
+nordseekueste-de,https://www.sh-tourismus.de/en/landscapes/north-sea,regionaler_quellstart,Kandidat auf Nordseekueste Schleswig-Holstein begrenzt; regionale Primärquellen noch prüfen
+ruegen,https://www.visit-mv.com/en/,quelle_weiterleitung_offen,GNTB verweist auf das MV-Portal; Abruf leitet auf Visit MV um und konnte nicht inhaltlich geprüft werden; konkrete Rügen-Zielseite noch ermitteln
+bodensee,https://www.bodensee.eu/en/where-to-travel/regions/german-lake-constance,regionaler_quellstart,Offizielles Bodenseeportal; Nordufer-Abgrenzung und deutsches Teilgebiet beachten
+salzkammergut,https://www.salzkammergut.at/en/,zielseite_abrufbar,Offizielles Regionsportal; sieben Teilregionen separat abgrenzen
+bornholm,https://www.visitdenmark.com/denmark/destinations/bornholm,zielseite_abrufbar,Offizielle VisitDenmark Zielseite
+lofoten,https://www.visitnorway.com/places-to-go/northern-norway/the-lofoten-islands/,offizieller_zielseitenlink,Als Lofoten-Zielseite im offiziellen Visit Norway Portal geführt; Direktabruf in Recherchefehler gelaufen
+finnisches-seenland,https://www.visitfinland.com/en/places-to-go/lakeland/,regionaler_quellstart,Offizielles Regionsportal; Seenland-Abgrenzung und einzelne Orte noch bestimmen
+sizilien,https://www.italia.it/en/sicily,zielseite_abrufbar,Italia.it Regionsseite; Sicilia als Insel-/Regionsziel noch genau nach AP-03 klassifizieren
